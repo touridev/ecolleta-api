@@ -6,25 +6,18 @@
 	:white_check_mark: NextLevelWeek 1.0 🚀 Done :white_check_mark:
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Lucasdfg07/Ecoleta_api?color=%2304D361%22">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/touridev/ecolleta-api?color=%2304D361%22">
 	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Lucasdfg07/Ecoleta_api">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/touridev/ecolleta-api">
 	
-  <a href="https://www.linkedin.com/in/lucas-siqueira-167362148/">
-    <img alt="Made by Lucas Siqueira" src="https://img.shields.io/badge/made%20by-Lucasdfg07-%2304D361">
-  </a>
-
-  <a href="https://github.com/Lucasdfg07/Ecoleta_api/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Lucasdfg07/Ecoleta_api">
+  <a href="https://github.com/touridev/ecolleta-api/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/touridev/ecolleta-api">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/Lucasdfg07/Ecoleta_api/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Lucasdfg07/Ecoleta_api?style=social">
+   <a href="https://github.com/touridev/ecolleta-api/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/touridev/ecolleta-api?style=social">
   </a>
-</p>
-<p align="center">
-<a href="https://insomnia.rest/run/?label=NLW%201.0%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FLucasdfg07%2FNLW-1.0%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -73,10 +66,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Lucasdfg07/Ecoleta_api/
+$ git clone https://github.com/touridev/ecolleta-api/
 
 # Go into the repository
-$ cd Ecoleta_api
+$ cd ecolleta-api
 
 # Install dependencies
 $ yarn install
@@ -104,16 +97,12 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/Lucasdfg07/Ecoleta_api/blob/master/LICENSE) for details.
-
-
-Made with ♥ by Lucas Siqueira :wave: [Get in touch!](https://www.linkedin.com/in/lucas-siqueira-167362148/)
-
+This project is under the MIT license. See the [LICENSE](https://github.com/touridev/ecolleta-api/blob/master/LICENSE) for details.
 
 ## Links
-  - Repository: https://github.com/Lucasdfg07/Ecoleta_api
+  - Repository: https://github.com/touridev/ecolleta-api
     - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
+      ftorjob@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
 
   ## Versioning
